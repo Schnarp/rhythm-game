@@ -1,7 +1,7 @@
 import pygame
 import sys
 import time
-
+# This is a test
 pygame.init()
 
 # Window setup
